@@ -1,9 +1,9 @@
-- <a href="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/?ref=lbp">What is OOPs</a>
-- <a href="">OOPs vs Object based Programming languages</a>
-- <a href="">Advantages and Disadvantages of OOPs</a>
+- <a href="https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP">What is OOPs</a>
+- <a href="https://referbruv.com/programming-questions/what-is-the-difference-between-an-object-oriented-programming-language-and-object-based-programming-language/#:~:text=Object%2Doriented%20languages%20do%20not,based%20languages%20include%20VB%20etc.">OOPs vs Object based Programming languages</a>
+- <a href="https://www.geeksforgeeks.org/benefits-advantages-of-oop/">Advantages and Disadvantages of OOPs</a>
 - <a href="https://www.geeksforgeeks.org/c-classes-and-objects/?ref=lbp">Classes and Objects</a>
 - <a href="">Empty Class</a>
-- <a href="">Access Modifiers</a>
+- <a href="https://www.geeksforgeeks.org/access-modifiers-in-c/">Access Modifiers</a>
 - <a href="">Getter && Setters</a>
 - <a href="">BTS of Objects</a>
 - <a href="">Static vs Dynamic Allocation</a>
