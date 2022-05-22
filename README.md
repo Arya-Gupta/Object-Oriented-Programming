@@ -14,12 +14,12 @@
 - <a href="https://www.geeksforgeeks.org/destructors-c/?ref=lbp">Destructor</a>
 - <a href="https://www.geeksforgeeks.org/private-destructor-in-cpp/?ref=lbp">Private Destructor</a>
 - <a href="https://www.geeksforgeeks.org/static-keyword-cpp/">Static Keyword</a>
-- <a href="">Virtual Keyword</a>
-- <a href="">This Keyword</a>
-- <a href="">New Keyword</a>
+- <a href="https://www.geeksforgeeks.org/virtual-function-cpp/">Virtual Keyword</a>
+- <a href="https://www.geeksforgeeks.org/this-pointer-in-c/">This Keyword</a>
+- <a href="https://www.geeksforgeeks.org/new-vs-operator-new-in-cpp/">New Keyword</a>
 - <a href="">Const Keyword</a>
-- <a href="">Final Keyword</a>
-- <a href="">Explicit Keyword</a>
+- <a href="https://www.geeksforgeeks.org/c-final-specifier/">Final Keyword</a>
+- <a href="https://www.geeksforgeeks.org/use-of-explicit-keyword-in-cpp/">Explicit Keyword</a>
 
 <br/>
 
@@ -27,7 +27,7 @@
 - <a href="https://www.geeksforgeeks.org/abstraction-in-c/?ref=lbp">Abstraction</a>
 - <a href="https://www.geeksforgeeks.org/polymorphism-in-c/?ref=lbp">Polymorphism</a>
 - <a href="https://www.geeksforgeeks.org/inheritance-in-c/?ref=lbp">Inheritance</a>
-- <a href="">Dynamic Binding</a>
-- <a href="">Message Passing</a>
+- <a href="https://www.upgrad.com/blog/dynamic-binding-in-c-plus-plus/">Dynamic Binding</a>
+- <a href="https://www.codespeedy.com/message-passing-in-cpp/">Message Passing</a>
 
 
