@@ -13,7 +13,7 @@
 - <a href="https://www.geeksforgeeks.org/copy-constructor-in-cpp/?ref=lbp">Copy Constructor</a>
 - <a href="https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/">Copy Constructor vs Assignment Operator</a>
 - <a href="https://www.geeksforgeeks.org/destructors-c/?ref=lbp">Destructor</a>
-- - <a href="https://www.geeksforgeeks.org/private-destructor-in-cpp/?ref=lbp">Private Destructor</a>
+- <a href="https://www.geeksforgeeks.org/private-destructor-in-cpp/?ref=lbp">Private Destructor</a>
 - <a href="https://www.geeksforgeeks.org/static-keyword-cpp/">Static Keyword</a>
 - <a href="">Virtual Keyword</a>
 - <a href="">This Keyword</a>
