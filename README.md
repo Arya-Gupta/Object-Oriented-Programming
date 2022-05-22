@@ -7,7 +7,6 @@
 - <a href="">Getter && Setters</a>
 - <a href="">BTS of Objects</a>
 - <a href="">Static vs Dynamic Allocation</a>
-- 
 - <a href="https://www.geeksforgeeks.org/constructors-c/?ref=lbp">Constructor</a>
 - <a href="https://www.geeksforgeeks.org/default-constructors-in-cpp/?ref=lbp">Default Constructor</a>
 - <a href="https://www.geeksforgeeks.org/copy-constructor-in-cpp/?ref=lbp">Copy Constructor</a>
