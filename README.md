@@ -18,12 +18,14 @@
 - <a href="">Static Keyword</a>
 - <a href="">Static Functions</a>
 
+
 - <a href="">Encapsulation</a>
 - <a href="">Abstraction</a>
 - <a href="">Polymorphism</a>
 - <a href="">Inheritance</a>
 - <a href="">Dynamic Binding</a>
 - <a href="">Message Passing</a>
+
 
 - <a href="">Static Keyword</a>
 - <a href="">Virtual Keyword</a>
