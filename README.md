@@ -18,6 +18,7 @@
 - <a href="">Static Keyword</a>
 - <a href="">Static Functions</a>
 
+<br/>
 
 - <a href="">Encapsulation</a>
 - <a href="">Abstraction</a>
@@ -26,6 +27,7 @@
 - <a href="">Dynamic Binding</a>
 - <a href="">Message Passing</a>
 
+<br/>
 
 - <a href="">Static Keyword</a>
 - <a href="">Virtual Keyword</a>
