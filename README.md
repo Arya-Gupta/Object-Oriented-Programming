@@ -17,7 +17,7 @@ Classes and structures are somewhat the same but still, they have some differenc
 # Classes
 Classes are user-defined data-types and are a template for creating objects. Classes consist of variables and functions which are also called class members.
 
-# Acceess Specifiers
+# Access Specifiers
 
 Public Access Specifier - All the variables and functions declared under public access modifier will be available for everyone. They can be accessed both inside and outside the class. Dot (.) operator is used in the program to access public data members directly.
 
