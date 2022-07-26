@@ -2,7 +2,7 @@
 
 # Index
 
-- <a href="https://www.youtube.com/playlist?list=PLNyt26ZAn9qQhjDnNx0tI87H31L0rYNlo">1 - Classes, Public and Private access modifiers</a>
+- <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/1.cpp">1 - Classes, Public and Private access modifiers</a>
 - 2 - OOPs Recap & Nesting of Member Functions
 
 # Introduction
