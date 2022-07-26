@@ -3,7 +3,7 @@
 # Index
 
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/1.cpp">1 - Classes, Public and Private access modifiers</a>
-- 2 - OOPs Recap & Nesting of Member Functions
+- <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/2.cpp">2 - OOPs Recap & Nesting of Member Functions</a>
 
 # Introduction
 
