@@ -57,4 +57,4 @@ When a static data member is created, there is only a single copy of the data me
 # Static Methods
 When a static method is created, they become independent of any object and class. Static methods can only access static data members and static methods. Static methods can only be accessed using the scope resolution operator.
 
-# Learn about the <a href="https://www.geeksforgeeks.org/static-keyword-cpp/">static keyword</a>.
+# Learn about the <a href="https://www.geeksforgeeks.org/static-keyword-cpp/">static keyword</a>
