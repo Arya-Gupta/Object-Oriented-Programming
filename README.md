@@ -4,6 +4,9 @@
 
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/1.cpp">1 - Classes, Public and Private access modifiers</a>
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/2.cpp">2 - OOPs Recap & Nesting of Member Functions</a>
+- <a href="">3 - Objects Memory Allocation & using Arrays in Classes</a>
+- <a href="">4 - Static Data Members & Methods</a>
+- <a href="">5 - Array of Objects & Passing Objects as Function Arguments</a>
 
 # Introduction
 
