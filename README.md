@@ -33,6 +33,13 @@ Private Access Specifier - All the variables and functions declared under a priv
 - Classes have some additional features than structures such as classes that can have methods and properties.
 - Classes have a feature to make class members as public and private.
 - In C++ objects can be declared along with class declaration:
+<table>
+<tr>
+<td>
 class Vehicle{
             // Class definition
 } bicycle, train, car;
+</td>
+</tr>
+</table>
+
