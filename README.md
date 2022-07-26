@@ -32,4 +32,7 @@ Private Access Specifier - All the variables and functions declared under a priv
 - Structures had limitations such as members are public and no methods.
 - Classes have some additional features than structures such as classes that can have methods and properties.
 - Classes have a feature to make class members as public and private.
-- In C++ objects can be declared along with class declaration as shown in <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/1.cpp">1</a>.
+- In C++ objects can be declared along with class declaration:
+class Vehicle{
+            // Class definition
+} bicycle, train, car;
