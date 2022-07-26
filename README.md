@@ -1,5 +1,10 @@
 ## Playlist can be found <a href="https://www.youtube.com/playlist?list=PLNyt26ZAn9qQhjDnNx0tI87H31L0rYNlo">here</a>
 
+# Index
+
+- 1 - Classes, Public and Private access modifiers
+- 2 - OOPs Recap & Nesting of Member Functions
+
 # Introduction
 
 <pre>
