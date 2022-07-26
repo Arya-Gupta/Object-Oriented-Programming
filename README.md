@@ -24,3 +24,12 @@ Public Access Specifier - All the variables and functions declared under public 
 Private Access Specifier - All the variables and functions declared under a private access modifier can only be used inside the class. They are not permissible to be used by any object or function outside the class.
 
 # Learn about the <a href="https://www.youtube.com/playlist?list=PLNyt26ZAn9qQhjDnNx0tI87H31L0rYNlo">scope resolution operator</a>
+
+# Object-Oriented programming Recap
+
+- Bjarne Stroustrup initially named C++ language as C with classes because C++ language was almost the same as C language but they added a new concept of classes in it.
+- Classes are the extension of structures in C language.
+- Structures had limitations such as members are public and no methods.
+- Classes have some additional features than structures such as classes that can have methods and properties.
+- Classes have a feature to make class members as public and private.
+- In C++ objects can be declared along with class declaration as shown in Code Snippet 1.
