@@ -71,7 +71,12 @@ When a static method is created, they become independent of any object and class
 # Learn about the <a href="https://www.geeksforgeeks.org/static-keyword-cpp/">static keyword</a>
 
 # An array of Objects
+
 An array of objects is declared the same as any other data-type array.  An array of objects consists of class objects as its elements. If the array consists of class objects it is called an array of objects.
 
 # Passing Object as Function Argument
+
 Objects can be passed as function arguments. This is useful when we want to assign the values of a passed object to the current object. 
+
+# Friend Function
+Friend functions are those functions that have the right to access the private data members of class even though they are not defined inside the class. It is necessary to write the prototype of the friend function. One main thing to note here is that if we have written the prototype for the friend function in the class it will not make that function a member of the class.
