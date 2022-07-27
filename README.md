@@ -58,3 +58,9 @@ When a static data member is created, there is only a single copy of the data me
 When a static method is created, they become independent of any object and class. Static methods can only access static data members and static methods. Static methods can only be accessed using the scope resolution operator.
 
 # Learn about the <a href="https://www.geeksforgeeks.org/static-keyword-cpp/">static keyword</a>
+
+# An array of Objects
+An array of objects is declared the same as any other data-type array.  An array of objects consists of class objects as its elements. If the array consists of class objects it is called an array of objects.
+
+# Passing Object as Function Argument
+Objects can be passed as function arguments. This is useful when we want to assign the values of a passed object to the current object. 
