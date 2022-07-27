@@ -79,4 +79,9 @@ An array of objects is declared the same as any other data-type array.  An array
 Objects can be passed as function arguments. This is useful when we want to assign the values of a passed object to the current object. 
 
 # Friend Function
+
 Friend functions are those functions that have the right to access the private data members of class even though they are not defined inside the class. It is necessary to write the prototype of the friend function. One main thing to note here is that if we have written the prototype for the friend function in the class it will not make that function a member of the class.
+
+# Friend Classes
+
+Friend classes are those classes that have permission to access private members of the class in which they are declared. The main thing to note here is that if the class is made friend of another class then it can access all the private members of that class.
