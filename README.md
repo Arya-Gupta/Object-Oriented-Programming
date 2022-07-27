@@ -6,7 +6,7 @@
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/2.cpp">2 - OOPs Recap & Nesting of Member Functions</a>
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/3.cpp">3 - Objects Memory Allocation & using Arrays in Classes</a>
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/4.cpp">4 - Static Data Members & Methods</a>
-- <a href="">5 - Array of Objects & Passing Objects as Function Arguments</a>
+- <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/5.cpp">5 - Array of Objects & Passing Objects as Function Arguments</a>
 
 # Introduction
 
