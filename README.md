@@ -8,7 +8,7 @@
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/4.cpp">4 - Static Data Members & Methods</a>
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/5.cpp">5 - Array of Objects & Passing Objects as Function Arguments</a>
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/6.cpp">6 - Friend Functions</a>
-- <a href="">7 -</a>
+- <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/7.cpp">7 - Friend Classes & Member Friend Functions</a>
 - <a href="">8 -</a>
 - <a href="">9 -</a>
 - <a href="">10 -</a>
