@@ -7,7 +7,7 @@
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/3.cpp">3 - Objects Memory Allocation & using Arrays in Classes</a>
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/4.cpp">4 - Static Data Members & Methods</a>
 - <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/5.cpp">5 - Array of Objects & Passing Objects as Function Arguments</a>
-- <a href="">6 - Friend Functions</a>
+- <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/6.cpp">6 - Friend Functions</a>
 - <a href="">7 -</a>
 - <a href="">8 -</a>
 - <a href="">9 -</a>
