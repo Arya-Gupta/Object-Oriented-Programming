@@ -107,3 +107,7 @@ Parameterized constructors are those constructors that take one or more paramete
 # Constructor Overloading
 
 Constructor overloading is a concept in which one class can have multiple constructors with different parameters. The main thing to note here is that the constructors will run according to the arguments for example if a program consists of 3 constructors with 0, 1, and 2 arguments, so if we pass 1 argument to the constructor the compiler will automatically run the constructor which is taking 1 argument.
+
+# Constructors with Default Arguments
+
+Default arguments of the constructor are those which are provided in the constructor declaration. If the values are not provided when calling the constructor the constructor uses the default arguments automatically.
