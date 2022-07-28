@@ -14,7 +14,7 @@ class Complex
 };
 
 // Parameterized constructor as it takes 2 parameters
-Complex ::Complex(int x, int y){
+Complex :: Complex(int x, int y){
     a = x;
     b = y;
 }
