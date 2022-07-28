@@ -99,3 +99,7 @@ A constructor should be declared in the public section of the class
 - They cannot return values and do not have return types
 - It can have default arguments
 - We cannot refer to their address
+
+# Parameterized and Default Constructors
+
+Parameterized constructors are those constructors that take one or more parameters. Default constructors are those constructors that take no parameters. The main things to note here are that constructors are written in the public section of the class and the constructors don’t have a return type.
