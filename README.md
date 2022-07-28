@@ -12,7 +12,7 @@
 <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/7.cpp">7 - Friend Classes & Member Friend Functions</a>
 <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/8.cpp">8 - More on Friend Functions</a>
 <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/9.cpp">9 - Constructors</a>
-<a href="">10 - Parameterized and Default Constructors</a>
+<a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/10.cpp">10 - Parameterized and Default Constructors</a>
 <a href="">11 -</a>
 <a href="">12 -</a>
 <a href="">13 -</a>
