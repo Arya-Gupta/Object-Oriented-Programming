@@ -119,5 +119,5 @@ The dynamic initialization of the object means that the object is initialized at
 
 A copy constructor is a type of constructor that creates a copy of another object. If we want one object to resemble another object we can use a copy constructor. If no copy constructor is written in the program compiler will supply its own copy constructor. 
 
-Destructor in C++
+# Destructor in C++
 A destructor is a type of function which is called when the object is destroyed. Destructor never takes an argument nor does it return any value.
