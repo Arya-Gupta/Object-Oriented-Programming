@@ -114,3 +114,7 @@ Default arguments of the constructor are those which are provided in the constru
 # Dynamic Initialization of Objects Using Constructors
 
 The dynamic initialization of the object means that the object is initialized at the runtime.  Dynamic initialization of the object using a constructor is beneficial when the data is of different formats.
+
+# Copy Constructor in C++
+
+A copy constructor is a type of constructor that creates a copy of another object. If we want one object to resemble another object we can use a copy constructor. If no copy constructor is written in the program compiler will supply its own copy constructor. 
