@@ -16,9 +16,8 @@
 <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/11.cpp">11 - Constructor Overloading</a>
 <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/12.cpp">12 - Constructors With Default Arguments</a>
 <a href="https://github.com/Arya-Gupta/Object-Oriented-Programming/blob/main/13.cpp">13 - Dynamic Initialization of Objects Using Constructors</a>
-<a href="">14 -</a>
-<a href="">15 -</a>
-<a href="">16 -</a>
+<a href="">14 - Copy Constructor</a>
+<a href="">15 - Destructor</a>
 </pre>
 
 # Introduction
