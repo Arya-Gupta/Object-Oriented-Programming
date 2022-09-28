@@ -30,7 +30,7 @@
 - Also, data was almost neglected, data security was easily compromised
 - Using classes solves this problem by modeling program as a real-world scenario
 
-#Difference between Procedure Oriented Programming and Object-Oriented Programming
+# Difference between Procedure Oriented Programming and Object-Oriented Programming
 Procedure Oriented Programming
 - Consists of writing a set of instruction for the computer to follow
 - The main focus is on functions and not on the flow of data
