@@ -26,6 +26,42 @@
 <img src="https://user-images.githubusercontent.com/84087089/180877576-260d8f82-6855-4ce9-b65e-a785017b1cdf.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/180877699-f8793cd6-dcfd-4913-889a-f7178e405b15.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/180877855-96451c9c-9c19-4992-8b75-a1298eb42cea.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/180877959-a708d3da-c9fd-4bbc-b74a-e933ff482706.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/180878052-1bfdb65c-b74c-40b1-8b68-7e0c33f99204.png" width="1010">
 </pre>
 
+
+# Why Object-Oriented Programming?
+- C++ language was designed with the main intention of adding object-oriented programming to C language
+- As the size of the program increases readability, maintainability, and bug-free nature of the program decrease.
+- This was the major problem with languages like C which relied upon functions or procedure (hence the name procedural programming language)
+- As a result, the possibility of not addressing the problem adequately was high
+- Also, data was almost neglected, data security was easily compromised
+- Using classes solves this problem by modeling program as a real-world scenario
+
+#Difference between Procedure Oriented Programming and Object-Oriented Programming
+Procedure Oriented Programming
+- Consists of writing a set of instruction for the computer to follow
+- The main focus is on functions and not on the flow of data
+- Functions can either use local or global data
+- Data moves openly from function to function
+Object-Oriented Programming
+- Works on the concept of classes and object
+- A class is a template to create objects
+- Treats data as a critical element
+- Decomposes the problem in objects and builds data and functions around the objects
+
+# Basic Concepts in Object-Oriented Programming
+- Classes - Basic template for creating objects
+- Objects – Basic run-time entities
+- Data Abstraction & Encapsulation – Wrapping data and functions into a single unit
+- Inheritance – Properties of one class can be inherited into others
+- Polymorphism – Ability to take more than one forms
+- Dynamic Binding – Code which will execute is not known until the program runs
+- Message Passing – message (Information) call format
+
+# Benefits of Object-Oriented Programming
+- Better code reusability using objects and inheritance
+- Principle of data hiding helps build secure systems
+- Multiple Objects can co-exist without any interference
+- Software complexity can be easily managed
+
 # Why use classes instead of structures?
 Classes and structures are somewhat the same but still, they have some differences. For example, we cannot hide data in structures which means that everything is public and can be accessed easily which is a major drawback of the structure because structures cannot be used where data security is a major concern. Another drawback of structures is that we cannot add functions in it.
 
