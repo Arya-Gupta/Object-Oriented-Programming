@@ -188,3 +188,9 @@ Multilevel inheritance is a type of inheritance in which one derived class is in
 
 ### Hybrid Inheritance in C++
 Hybrid inheritance is a combination of multiple inheritance and multilevel inheritance. In hybrid inheritance, a class is derived from two classes as in multiple inheritances. However, one of the parent classes is not a base class. For example, we have four classes “animal”, “mammal”, “bird”, and “bat”. If “mammal”  and “bird” classes are inherited from the “animal” class and “bat” class is inherited from “mammal” and “bird” classes which means that “mammal” and “bird” classes can now implement the functionalities of “animal” class and “bat” class can now implement the functionalities of “mammal” and “bird” classes.
+
+
+<pre>
+<img src="https://user-images.githubusercontent.com/84087089/192861940-7f7e2d9b-8e90-426b-9239-b7db54386b73.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/192862219-eb627005-479d-473b-8a7b-bde7503e031a.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/192862313-1ae80e8a-53c8-4f2c-8c80-02676b70a4dd.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/192862438-25c248da-a912-4725-9294-352b782682b1.png" width="1010"> <img src="https://user-images.githubusercontent.com/84087089/192862572-8c114528-7398-4d23-9854-906d5a7c756b.png" width="1010"> 
+</pre>
+
