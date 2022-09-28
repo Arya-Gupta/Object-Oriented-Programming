@@ -31,12 +31,12 @@
 - Using classes solves this problem by modeling program as a real-world scenario
 
 # Difference between Procedure Oriented Programming and Object-Oriented Programming
-Procedure Oriented Programming
+### Procedure Oriented Programming
 - Consists of writing a set of instruction for the computer to follow
 - The main focus is on functions and not on the flow of data
 - Functions can either use local or global data
 - Data moves openly from function to function <br/>
-Object-Oriented Programming
+### Object-Oriented Programming
 - Works on the concept of classes and object
 - A class is a template to create objects
 - Treats data as a critical element
